@@ -1,0 +1,4 @@
+REQ-0869224,Kent Sotillo,CCS,PROJ-01 - Epson HD Projector A,2026-06-28,09:00 AM - 09:00 AM,Meeting,Declined
+REQ-5946802,Kent Sotillo,CCS,GYM-01 - Main Gymnasium Court,2026-06-20,07:00 AM - 09:00 AM,Team Practice,Approved
+REQ-5597716,Kent Sotillo,CCS,PROJ-02 - Sony Wireless Projector B,2026-06-29,01:00 PM - 05:00 PM,Workshop,Approved
+REQ-0156374,Kent Sotillo,CCS,CONF-301 - Faculty Conference Room,2026-06-26,08:00 AM - 12:00 AM,Seminar,Pending
