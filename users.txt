@@ -1,2 +1,0 @@
-CA202505856,123,Kent,Sotillo,Student,123,CCS
-CA202505856,010396,Kenso,Kent,Admin,kentsotillo23@gmail.com,Administration
